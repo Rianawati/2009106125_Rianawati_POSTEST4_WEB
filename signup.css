@@ -1,0 +1,76 @@
+*{
+    background-color: aliceblue;
+}
+h3{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #063e6f ;
+    margin-left: 450px;
+}
+#depan{
+    width: 70% ;
+    height: 40px ;
+    border: solid 1px #bec6d0 ;
+    float: left;
+    text-align: center;
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px;
+  
+ 
+  
+   
+ 
+}
+#belakang{
+    width: 70% ;
+    height: 40px ;
+    border: solid 1px #bec6d0 ;
+    float: left;
+    text-align: center;
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px;
+   
+ 
+ 
+}
+#daftaremail{
+    width: 70% ;
+    height: 40px ;
+    border: solid 1px #bec6d0 ;
+    float: left;
+    text-align: center;
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px;
+   
+
+ 
+ 
+ 
+}
+#daftarpassword{
+    width: 70% !important;
+    height: 40px !important;
+    border: solid 1px #bec6d0 ;
+    float: left;
+    text-align: center;
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px;
+  
+ 
+ 
+}
+#tombol{
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px 8px 130px;
+    background-color:  #1F96FF ;
+    border: solid 1px #bec6d0 ;
+    margin-left: 450px;
+    
+
+}
